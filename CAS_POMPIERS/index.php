@@ -1,0 +1,1 @@
+<?php header('Location: /CAS_POMPIERSPages/Accueil.php');?>
